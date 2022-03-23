@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://static.machinevision.local/">
+  <channel>
+    <title>Machine Vision in Art, Games and Narratives</title>
+    <link>http://static.machinevision.local/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Winston Smith</title>
+  <link>http://static.machinevision.local/character/winston-smith</link>
+  <description>
+&lt;span&gt;Winston Smith&lt;/span&gt;
+
+&lt;span&gt;&lt;a href="http://static.machinevision.local/user/jill" hreflang="en"&gt;Jill&lt;/a&gt;&lt;/span&gt;
+
+&lt;span&gt;Thu, 06/06/2019 - 18:57&lt;/span&gt;
+  &lt;div class="layout layout--twocol-section layout--twocol-section--33-67"&gt;
+
+          &lt;div class="layout__region layout__region--first"&gt;
+        
+
+&lt;div class="block block-layout-builder block-field-blocknodecharacterfield-age"&gt;
+  
+    
+      &lt;div class="block__content"&gt;
+      
+  &lt;div class="field field--name-field-age field--type-entity-reference field--label-inline clearfix"&gt;
+    &lt;div class="field__label"&gt;Age&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://static.machinevision.local/age/adult" hreflang="en"&gt;Adult&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+&lt;div class="block block-layout-builder block-field-blocknodecharacterfield-species"&gt;
+  
+    
+      &lt;div class="block__content"&gt;
+      
+  &lt;div class="field field--name-field-species field--type-entity-reference field--label-inline clearfix"&gt;
+    &lt;div class="field__label"&gt;Species&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://static.machinevision.local/species/human" hreflang="en"&gt;Human&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+&lt;div class="block block-layout-builder block-field-blocknodecharacterfield-sexuality"&gt;
+  
+    
+      &lt;div class="block__content"&gt;
+      
+  &lt;div class="field field--name-field-sexuality field--type-entity-reference field--label-inline clearfix"&gt;
+    &lt;div class="field__label"&gt;Sexuality&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://static.machinevision.local/sexuality/heterosexual" hreflang="en"&gt;Heterosexual&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+&lt;div class="block block-layout-builder block-field-blocknodecharacterfield-gender"&gt;
+  
+    
+      &lt;div class="block__content"&gt;
+      
+  &lt;div class="field field--name-field-gender field--type-entity-reference field--label-inline clearfix"&gt;
+    &lt;div class="field__label"&gt;Gender&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://static.machinevision.local/gender/male" hreflang="en"&gt;Male&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+&lt;div class="block block-layout-builder block-field-blocknodecharacterfield-race-ethnicity"&gt;
+  
+    
+      &lt;div class="block__content"&gt;
+      
+  &lt;div class="field field--name-field-race-ethnicity field--type-entity-reference field--label-inline clearfix"&gt;
+    &lt;div class="field__label"&gt;Race/ethnicity&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="http://static.machinevision.local/raceethnicity/white" hreflang="en"&gt;White&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+&lt;div class="block block-layout-builder block-extra-field-blocknodecharacterlinks"&gt;
+  
+    
+      &lt;div class="block__content"&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+&lt;div class="block block-layout-builder block-field-blocknodecharacterfield-individual-or-group"&gt;
+  
+    
+      &lt;div class="block__content"&gt;
+      
+  &lt;div class="field field--name-field-individual-or-group field--type-boolean field--label-inline clearfix"&gt;
+    &lt;div class="field__label"&gt;Individual or group?&lt;/div&gt;
+              &lt;div class="field__item"&gt;Individual&lt;/div&gt;
+          &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+&lt;div class="block block-layout-builder block-field-blocknodecharacterfield-customizable"&gt;
+  
+    
+      &lt;div class="block__content"&gt;
+      
+  &lt;div class="field field--name-field-customizable field--type-boolean field--label-inline clearfix"&gt;
+    &lt;div class="field__label"&gt;Customizable?&lt;/div&gt;
+              &lt;div class="field__item"&gt;Not customisable&lt;/div&gt;
+          &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+          &lt;div class="layout__region layout__region--second"&gt;
+        
+
+&lt;div class="block block-layout-builder block-field-blocknodecharacterfield-description"&gt;
+  
+    
+      &lt;div class="block__content"&gt;
+      
+  &lt;div class="field field--name-field-description field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Description&lt;/div&gt;
+              &lt;div class="field__item"&gt;An ordinary person in the totalitarian society of 1984. He works for the Ministry of Truth where his job is to rewrite historical documents.&lt;/div&gt;
+          &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+    
+  &lt;/div&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+
+&lt;div class="block block-layout-builder block-field-blocknodecharacteruid"&gt;
+  
+      &lt;h2 class="block__title"&gt;Authored by&lt;/h2&gt;
+    
+      &lt;div class="block__content"&gt;
+      
+&lt;span&gt;&lt;a href="http://static.machinevision.local/user/jill" hreflang="en"&gt;Jill&lt;/a&gt;&lt;/span&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+&lt;div class="block block-layout-builder block-field-blocknodecharacteruuid"&gt;
+  
+    
+      &lt;div class="block__content"&gt;
+      
+  &lt;div class="field field--name-uuid field--type-uuid field--label-above"&gt;
+    &lt;div class="field__label"&gt;UUID&lt;/div&gt;
+              &lt;div class="field__item"&gt;b8b6bf12-1475-49fd-85a0-cc20aa95649e&lt;/div&gt;
+          &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Thu, 06 Jun 2019 16:57:01 +0000</pubDate>
+    <dc:creator>Jill</dc:creator>
+    <guid isPermaLink="false">241 at http://static.machinevision.local</guid>
+    </item>
+
+  </channel>
+</rss>
