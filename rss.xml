@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://static.machinevision.local/">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://machinevisionuib.github.io/">
   <channel>
-    <title>Machine Vision in Art, Games and Narratives</title>
-    <link>http://static.machinevision.local/</link>
+    <title>Database of Machine Vision in Art, Games and Narratives</title>
+    <link>https://machinevisionuib.github.io/</link>
     <description/>
     <language>en</language>
     
     <item>
   <title>Winston Smith</title>
-  <link>http://static.machinevision.local/character/winston-smith</link>
+  <link>https://machinevisionuib.github.io/character/winston-smith</link>
   <description>
 &lt;span&gt;Winston Smith&lt;/span&gt;
 
-&lt;span&gt;&lt;a href="http://static.machinevision.local/user/jill" hreflang="en"&gt;Jill&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href="https://machinevisionuib.github.io/user/jill" hreflang="en"&gt;Jill&lt;/a&gt;&lt;/span&gt;
 
 &lt;span&gt;Thu, 06/06/2019 - 18:57&lt;/span&gt;
   &lt;div class="layout layout--twocol-section layout--twocol-section--33-67"&gt;
@@ -28,7 +28,7 @@
   &lt;div class="field field--name-field-age field--type-entity-reference field--label-inline clearfix"&gt;
     &lt;div class="field__label"&gt;Age&lt;/div&gt;
           &lt;div class="field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://static.machinevision.local/age/adult" hreflang="en"&gt;Adult&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://machinevisionuib.github.io/age/adult" hreflang="en"&gt;Adult&lt;/a&gt;&lt;/div&gt;
               &lt;/div&gt;
       &lt;/div&gt;
 
@@ -44,7 +44,7 @@
   &lt;div class="field field--name-field-species field--type-entity-reference field--label-inline clearfix"&gt;
     &lt;div class="field__label"&gt;Species&lt;/div&gt;
           &lt;div class="field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://static.machinevision.local/species/human" hreflang="en"&gt;Human&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://machinevisionuib.github.io/species/human" hreflang="en"&gt;Human&lt;/a&gt;&lt;/div&gt;
               &lt;/div&gt;
       &lt;/div&gt;
 
@@ -60,7 +60,7 @@
   &lt;div class="field field--name-field-sexuality field--type-entity-reference field--label-inline clearfix"&gt;
     &lt;div class="field__label"&gt;Sexuality&lt;/div&gt;
           &lt;div class="field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://static.machinevision.local/sexuality/heterosexual" hreflang="en"&gt;Heterosexual&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://machinevisionuib.github.io/sexuality/heterosexual" hreflang="en"&gt;Heterosexual&lt;/a&gt;&lt;/div&gt;
               &lt;/div&gt;
       &lt;/div&gt;
 
@@ -76,7 +76,7 @@
   &lt;div class="field field--name-field-gender field--type-entity-reference field--label-inline clearfix"&gt;
     &lt;div class="field__label"&gt;Gender&lt;/div&gt;
           &lt;div class="field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://static.machinevision.local/gender/male" hreflang="en"&gt;Male&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://machinevisionuib.github.io/gender/male" hreflang="en"&gt;Male&lt;/a&gt;&lt;/div&gt;
               &lt;/div&gt;
       &lt;/div&gt;
 
@@ -92,7 +92,7 @@
   &lt;div class="field field--name-field-race-ethnicity field--type-entity-reference field--label-inline clearfix"&gt;
     &lt;div class="field__label"&gt;Race/ethnicity&lt;/div&gt;
           &lt;div class="field__items"&gt;
-              &lt;div class="field__item"&gt;&lt;a href="http://static.machinevision.local/raceethnicity/white" hreflang="en"&gt;White&lt;/a&gt;&lt;/div&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://machinevisionuib.github.io/raceethnicity/white" hreflang="en"&gt;White&lt;/a&gt;&lt;/div&gt;
               &lt;/div&gt;
       &lt;/div&gt;
 
@@ -167,7 +167,7 @@
     
       &lt;div class="block__content"&gt;
       
-&lt;span&gt;&lt;a href="http://static.machinevision.local/user/jill" hreflang="en"&gt;Jill&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href="https://machinevisionuib.github.io/user/jill" hreflang="en"&gt;Jill&lt;/a&gt;&lt;/span&gt;
 
     &lt;/div&gt;
   &lt;/div&gt;
@@ -191,7 +191,7 @@
 </description>
   <pubDate>Thu, 06 Jun 2019 16:57:01 +0000</pubDate>
     <dc:creator>Jill</dc:creator>
-    <guid isPermaLink="false">241 at http://static.machinevision.local</guid>
+    <guid isPermaLink="false">241 at https://machinevisionuib.github.io</guid>
     </item>
 
   </channel>
