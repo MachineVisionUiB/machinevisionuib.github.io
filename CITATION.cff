@@ -46,12 +46,9 @@ authors:
     family-names: Markham
     affiliation: RMIT
     orcid: 'https://orcid.org/0000-0003-0497-2811'
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.6514729
+doi: 10.5281/zenodo.6514729
 repository-code: 'https://doi.org/10.5281/zenodo.6514729'
-repository: >-
-  https://machinevisionuib.github.io
+repository: 'https://machinevisionuib.github.io'
 abstract: >-
   This is a static HTML and CSS archive of the Database of Machine Vision in 
   Art, Games and Narratives, which
