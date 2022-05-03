@@ -48,10 +48,10 @@ authors:
     orcid: 'https://orcid.org/0000-0003-0497-2811'
 identifiers:
   - type: doi
-    value: 
-repository-code: 'https://doi.org/10.18710/2G0XKN'
+    value: 10.5281/zenodo.6514729
+repository-code: 'https://doi.org/10.5281/zenodo.6514729'
 repository: >-
-  https://doi.org/10.18710/2G0XKN
+  https://machinevisionuib.github.io
 abstract: >-
   This is a static HTML and CSS archive of the Database of Machine Vision in 
   Art, Games and Narratives, which
