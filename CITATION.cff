@@ -2,45 +2,41 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: >-
-  Database of Machine Vision in Art, Games and Narratives: 
-subtitle: >- 
-Archival Version in HTML and CSS
-message: >-
-  Please cite this work using the metadata from
-  'preferred-citation'.
-type: research database
+title: "Database of Machine Vision in Art, Games and Narratives: Archival Version in HTML and CSS"
+message: "Please cite this work using the metadata from
+  'preferred-citation'."
+type: database
 authors:
-  - given-names: Jill Walker
-    family-names: Rettberg
-    affiliation: University of Bergen
-    email: jill.walker.rettberg@uib.no
-    orcid: 'https://orcid.org/0000-0003-2472-3812'
-  - given-names: Linda
-    family-names: Kronman
-    affiliation: University of Bergen
+  - given-names: "Jill Walker"
+    family-names: "Rettberg"
+    affiliation: "University of Bergen"
+    email: "jill.walker.rettberg@uib.no"
+    orcid: "https://orcid.org/0000-0003-2472-3812"
+  - given-names: "Linda"
+    family-names: "Kronman"
+    affiliation: "University of Bergen"
     orcid: 'https://orcid.org/0000-0001-7699-4505'
-  - given-names: Ragnhild
-    family-names: Solberg
-    affiliation: University of Bergen
+  - given-names: "Ragnhild"
+    family-names: "Solberg"
+    affiliation: "University of Bergen"
     orcid: 'https://orcid.org/0000-0002-5486-2453'
-  - given-names: Marianne
-    family-names: Gunderson
-    email: marianne.gunderson@uib.no
-    affiliation: University of Bergen
+  - given-names: "Marianne"
+    family-names: "Gunderson"
+    email: "marianne.gunderson@uib.no"
+    affiliation: "University of Bergen"
     orcid: 'https://orcid.org/0000-0003-2794-4848'
-  - given-names: Stein Magne
-    family-names: Bjørklund
-    affiliation: University of Bergen
-  - given-names: Linn Heidi
-    family-names: Stokkedal
-  - given-names: Gabriele
-    name-particle: de
-    family-names: Seta
-    affiliation: University of Bergen
+  - given-names: "Stein Magne"
+    family-names: "Bjørklund"
+    affiliation: "University of Bergen"
+  - given-names: "Linn Heidi"
+    family-names: "Stokkedal"
+  - given-names: "Gabriele"
+    name-particle: "de"
+    family-names: "Seta"
+    affiliation: "University of Bergen"
     orcid: 'https://orcid.org/0000-0003-0497-2811'
-  - given-names: Kurdin
-    family-names: Jacob
+  - given-names: "Kurdin"
+    family-names: "Jacob"
     affiliation: University of Bergen
   - given-names: Annette
     family-names: Markham
