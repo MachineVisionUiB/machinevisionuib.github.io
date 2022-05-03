@@ -1,4 +1,4 @@
-# Test page
+# Database of Machine Vision in Art, Games and Narratives: Archival Version in HTML and CSS
 
 [![DOI](https://zenodo.org/badge/473236087.svg)](https://zenodo.org/badge/latestdoi/473236087)
 
